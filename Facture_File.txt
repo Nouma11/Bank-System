@@ -1,0 +1,4 @@
+Moha/1234/123-456-789/Orange/1
+Moha/1234/125-456-789/Telecome/1
+Moha/1234/120-456-789/Oreedoo/1
+ZIZO/777/324-532-453/Orange/0
